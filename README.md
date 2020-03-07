@@ -14,6 +14,10 @@ Examples:
 
 ```NW-VIE E:Sirenenprobe #```
 
+See the script in live-demo:
+
+https://db0usd.ralsu.de/mowas.php
+
 This script does not contain any DAPNET-connectivity. You have to add DAPNET-rubric-submission-code to this script or you have to include the code in your existing DAPNET-scripts.
 
 Feel free to use the code. If you like it, send me a message ;-)
